@@ -150,10 +150,10 @@ ESP32-P4-SmartDisplay的主要组件及连接方式如下图所示：
 - [ESP32-P4 技术参考手册 (英文)](datasheet/chip/Esp32-p4_technical_reference_manual_en.pdf)
 - [其他数据手册](/datasheet)
 
-## 7.dimension drawing
+## 7.尺寸图
 ![dimension drawing](image/size.png)
 
-## 8.Technical support
+## 8.技术支持
 
 联系人：VIEWE - Ayang
 
