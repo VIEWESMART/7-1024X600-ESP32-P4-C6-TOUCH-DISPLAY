@@ -161,9 +161,12 @@ We are working hard to prepare. If you need anything, please contact us.
 - [ESP32-P4 Datasheet (English)](datasheet/chip/esp32-p4_datasheet_en.pdf)
 - [ESP32-P4 Technical Reference Manual (Chinese)](datasheet/chip/Esp32-p4_technical_reference_manual_cn.pdf)
 - [ESP32-P4 Technical Reference Manual (English)](datasheet/chip/Esp32-p4_technical_reference_manual_en.pdf)
-- [Other Datasheet](datasheet)
+- [Other Datasheet](/datasheet)
 
-## Technical support
+## 7.dimension drawing
+![dimension drawing](image/size.png)
+
+## 8.Technical support
 
 Contact person: VIEWE-Ayang
 

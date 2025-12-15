@@ -136,7 +136,7 @@ ESP32-P4-SmartDisplay的主要组件及连接方式如下图所示：
 - 新手请前往[ESP-IDF快速入门](https://github.com/VIEWESMART/VIEWE-Tutorial/blob/main/esp-idf/esp-idf_Beginner_Tutorial.md)查看如何快速搭建开发环境并将应用程序烧录到开发板。
 - 开发板的应用示例存储在Examples文件夹中。您可以在[examples](examples/esp-idf)，其中包含了使用说明，如未添加请耐心等待我们在逐一添加中，也可联系我们，我们会优先处理
 
-## 6.Related Documents
+## 6.相关文档
 - [ESP32-P4-SmartDisplay原理图（PDF）](schematic/ESP32-P4-SmartDisplay.sch.pdf)
 - [相机规格（PDF）](datasheet/peripheral/camera_datasheet.pdf)
 - [显示规格（PDF）](datasheet/display/HT070IBC-27N7EK-HD%2030PTT3558%20MiPi%2030%E7%9B%B4.pdf)
@@ -148,9 +148,12 @@ ESP32-P4-SmartDisplay的主要组件及连接方式如下图所示：
 - [ESP32-P4 数据手册（英文）](datasheet/chip/esp32-p4_datasheet_en.pdf)
 - [ESP32-P4 技术参考手册（中文）](datasheet/chip/Esp32-p4_technical_reference_manual_cn.pdf)
 - [ESP32-P4 技术参考手册 (英文)](datasheet/chip/Esp32-p4_technical_reference_manual_en.pdf)
-- [其他数据手册](datasheet)
+- [其他数据手册](/datasheet)
 
-## Technical support
+## 7.尺寸图
+![dimension drawing](image/size.png)
+
+## 8.技术支持
 
 联系人：VIEWE - Ayang
 
