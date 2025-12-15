@@ -1,4 +1,6 @@
 # ESP32-P4-SmartDisplay
+[中文](/README_CN.md)
+
 <img width="1158" height="694" alt="image" src="image/70E.png" />
 <img width="1165" height="691" alt="image" src="image/70E-1.png" />
 
@@ -142,23 +144,24 @@ This tutorial aims to guide users to set up the software environment for ESP32-P
 ## 5.Getting-start
 ### ESP-IDF
   - Please go to [ESP-IDF Quick Start](https://github.com/VIEWESMART/VIEWE-Tutorial/blob/main/esp-idf/esp-idf_Beginner_Tutorial.md) to see how to quickly set up the development environment and burn the application to your development board.
-  - The application examples for the development board are stored in Examples. You can configure the project options by entering idf.py menuconfig in the [examples](https://github.com/VIEWESMART/ESP32-P4-SmartDisplay/tree/main/examples/esp-idf) directory.
+  - The application examples for the development board are stored in Examples. You can configure the project options by entering idf.py menuconfig in the [examples](https://github.com/VIEWESMART/ESP32-P4-SmartDisplay/tree/main/examples/esp-idf) directory.It includes usage instructions. If they haven't been added yet, please be patient as we are adding them one by one. You can also contact us, and we will handle it with priority.
+
 ### Arduino IDE
 We are working hard to prepare. If you need anything, please contact us.
 
 ## 6.Related Documents
-- [ESP32-P4-SmartDisplay Schematic Diagram (PDF)](https://github.com/VIEWESMART/ESP32-P4-SmartDisplay/tree/main/schematic)
-- [Camera Specification (PDF)](https://github.com/VIEWESMART/ESP32-P4-SmartDisplay/blob/main/datasheet/peripheral/camera_datasheet.pdf)
-- [Display Specification (PDF)](https://github.com/VIEWESMART/ESP32-P4-SmartDisplay/blob/main/datasheet/display/HT070IBC-27N7EK-HD%2030PTT3558%20MiPi%2030%E7%9B%B4.pdf)
-- [Display Chip Specification (PDF)]()
+- [ESP32-P4-SmartDisplay Schematic Diagram (PDF)](schematic/ESP32-P4-SmartDisplay.sch.pdf)
+- [Camera Specification (PDF)](datasheet/peripheral/camera_datasheet.pdf)
+- [Display Specification (PDF)](datasheet/display/HT070IBC-27N7EK-HD%2030PTT3558%20MiPi%2030%E7%9B%B4.pdf)
+- [Display Chip Specification (PDF)](datasheet/display/EK79007AD3_DS_REV1.0(1).pdf)
 - [ESP32-P4-SmartDisplay Specification(PDF)]()
-- [ESP32-C6 Datasheet(Chinese)](https://github.com/VIEWESMART/ESP32-P4-SmartDisplay/blob/main/datasheet/chip/esp32-c6-wroom-1_wroom-1u_datasheet_cn.pdf)
-- [ESP32-C6 Datasheet(English)](https://github.com/VIEWESMART/ESP32-P4-SmartDisplay/blob/main/datasheet/chip/esp32-c6-wroom-1_wroom-1u_datasheet_en.pdf)
-- [ESP32-P4 Datasheet (Chinese)](https://github.com/VIEWESMART/ESP32-P4-SmartDisplay/blob/main/datasheet/chip/esp32-p4_datasheet_cn.pdf)
-- [ESP32-P4 Datasheet (English)](https://github.com/VIEWESMART/ESP32-P4-SmartDisplay/blob/main/datasheet/chip/esp32-p4_datasheet_en.pdf)
-- [ESP32-P4 Technical Reference Manual (Chinese)](https://github.com/VIEWESMART/ESP32-P4-SmartDisplay/blob/main/datasheet/chip/Esp32-p4_technical_reference_manual_cn.pdf)
-- [ESP32-P4 Technical Reference Manual (English)](https://github.com/VIEWESMART/ESP32-P4-SmartDisplay/blob/main/datasheet/chip/Esp32-p4_technical_reference_manual_en.pdf)
-- [Other Datasheet](https://github.com/VIEWESMART/ESP32-P4-SmartDisplay/tree/main/datasheet)
+- [ESP32-C6 Datasheet(Chinese)](datasheet/chip/esp32-c6-wroom-1_wroom-1u_datasheet_cn.pdf)
+- [ESP32-C6 Datasheet(English)](datasheet/chip/esp32-c6-wroom-1_wroom-1u_datasheet_en.pdf)
+- [ESP32-P4 Datasheet (Chinese)](datasheet/chip/esp32-p4_datasheet_cn.pdf)
+- [ESP32-P4 Datasheet (English)](datasheet/chip/esp32-p4_datasheet_en.pdf)
+- [ESP32-P4 Technical Reference Manual (Chinese)](datasheet/chip/Esp32-p4_technical_reference_manual_cn.pdf)
+- [ESP32-P4 Technical Reference Manual (English)](datasheet/chip/Esp32-p4_technical_reference_manual_en.pdf)
+- [Other Datasheet](datasheet)
 
 ## Technical support
 
