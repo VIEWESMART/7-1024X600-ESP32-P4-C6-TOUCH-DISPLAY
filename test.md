@@ -10,6 +10,8 @@
   <img src="image/70E-1.png" width="45%" alt="Back View">
 </div>
 
+---
+
 ## 1. Introduction
 
 The **ESP32-P4-SmartDisplay** is a high-performance development board equipped with a 7-inch MIPI screen (1024x600). Designed by VIEWE, it combines the **ESP32-P4** (High-Performance MCU) with the **ESP32-C6** (Wi-Fi 6 + BT 5 Module).
