@@ -1,4 +1,4 @@
-# ESP32-P4-Wifi6 7" 1024x600 Touch Display
+# 7" 1024x600 ESP32-P4 WiFi6 Touch Display
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 [![ESP-IDF](https://img.shields.io/badge/ESP--IDF-v5.2%2B-red)](https://github.com/espressif/esp-idf)
