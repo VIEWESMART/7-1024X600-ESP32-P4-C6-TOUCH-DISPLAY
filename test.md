@@ -1,4 +1,4 @@
-# ESP32-P4-SmartDisplay
+# ESP32-P4-WIFI6 7 Inch 1024x600 Smart Display
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 [![ESP-IDF](https://img.shields.io/badge/ESP--IDF-v5.2%2B-red)](https://github.com/espressif/esp-idf)
