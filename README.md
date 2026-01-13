@@ -1,6 +1,18 @@
 # ESP32-P4-SmartDisplay
 [中文](/README_CN.md)
 
+<div align="center">
+
+<a href=" " target="_blank">
+  <img src="https://img.shields.io/badge/🛒_Official_Store-4051B5?style=for-the-badge" alt="Official Store"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:Support@viewedisplay.com">
+  <img src="https://img.shields.io/badge/📧_Technical_Support-555555?style=for-the-badge" alt="Technical Support"/>
+</a>
+
+</div>
+
 <img width="1158" height="694" alt="image" src="image/70E.png" />
 <img width="1165" height="691" alt="image" src="image/70E-1.png" />
 
