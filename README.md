@@ -186,6 +186,4 @@ Email: smartrd1@viewedisplay.com
 
 QQ technical exchange group: 1014311090
 
-WeChat:
-![wechat](image/wechat.jpg)
 
