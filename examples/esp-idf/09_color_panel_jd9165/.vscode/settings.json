@@ -1,0 +1,11 @@
+{
+    "idf.currentSetup": "D:/Espressif/frameworks/esp-idf-v5.5.3/",
+    "idf.openOcdConfigs": [
+        "board/esp32p4-builtin.cfg"
+    ],
+    "idf.customExtraVars": {
+        "IDF_TARGET": "esp32p4"
+    },
+    "idf.flashType": "UART",
+    "idf.portWin": "COM3"
+}

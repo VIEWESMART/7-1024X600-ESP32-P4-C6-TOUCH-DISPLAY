@@ -1,0 +1,9 @@
+{
+    "idf.pythonInstallPath": "d:\\Espressif\\vscode\\tools\\idf-python\\3.11.2\\python.exe",
+    "idf.portWin": "COM3",
+    "idf.flashType": "UART",
+    "idf.espIdfPathWin": "d:\\Espressif\\vscode\\frameworks\\v5.5.1\\esp-idf",
+    "idf.toolsPathWin": "d:\\Espressif\\vscode",
+    "idf.currentSetup": "D:\\idf\\.espressif\\v5.5.4\\esp-idf",
+    "idf.customExtraVars": {}
+}

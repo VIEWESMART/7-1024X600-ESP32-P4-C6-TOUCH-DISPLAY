@@ -1,0 +1,6 @@
+## IDF Component Manager Manifest File
+dependencies:
+  espressif/esp_lcd_jd9165: ^2.0.2
+    # public: true
+    # version: "*"
+    # path: "../../../esp_lcd_jd9165"
