@@ -1,0 +1,4 @@
+dependencies:
+  lvgl/lvgl:
+    version: "9.5.*"
+    public: true
